@@ -33,6 +33,19 @@ These apps support **background play**, **Picture-in-Picture (PIP)**, and even *
 
 ---
 
+## 🎵 YouTube Music Alternative
+
+### **🎶 [Music X – Music Offline Player](https://apps.apple.com/us/app/music-x-music-offline-player/id6752231606)**
+
+#### ✨ Features
+- 🔐 **Sign in with your YouTube account** to sync playlists and recommendations.  
+- ⬇️ **Download songs for offline listening**.  
+- 🎨 **YouTube Music-like UI** with clean, modern design.  
+- 🎧 Works seamlessly in the background with high-quality playback.  
+- 🚫 No ads when paired with **AdGuard DNS**.  
+
+---
+
 ## 🎞️ Movie & TV Alternatives
 
 Watch your favorite content like on **Netflix**, **Hulu**, **Apple TV+**, **Amazon Prime Video**, or **Crunchyroll** — all from free iOS apps.
@@ -60,9 +73,9 @@ Use **AdGuard DNS** or switch easily between multiple DNS providers using **DNSe
 
 ## 🛠️ Recommended Setup
 
-1. Install one of the recommended apps (Tube PIP or TubeMax).  
+1. Install your preferred app(s) from the list above.  
 2. Install **DNSecure** and set **AdGuard DNS** as your active DNS.  
-3. Enjoy **ad-free YouTube**, **background playback**, and **PIP mode** for a premium experience — completely free!
+3. Enjoy **ad-free streaming**, **background playback**, and **PIP mode** for a premium experience — completely free!
 
 ---
 
